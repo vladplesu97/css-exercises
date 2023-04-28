@@ -7,9 +7,51 @@ img {
   height: 100px;
 }
 
+.container {
+  display: flex;
+  padding: 32px;
+  justify-content: center;
+  align-items: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+}
+
+.barberry {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+
+}
+
+.chilli {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+
+}
+
+.pepper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.saffron {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
 }
 
 /* do not edit this footer */
